@@ -22,7 +22,7 @@ future:      true
 unpublished: false
 
 # Plugins
-whitelist: []
+whitelist: [gravatar]
 gems:      [jekyll-paginate]
 
 # Conversion
